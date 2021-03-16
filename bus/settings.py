@@ -26,7 +26,7 @@ SECRET_KEY = 'b=tup-v56mse(99(+gt2)$3nj613##53_3h6w1$fhwr9gt7b1c'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['39.103.164.32']
 
 
 # Application definition
